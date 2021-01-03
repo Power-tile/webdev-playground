@@ -1,0 +1,10 @@
+/* #input-box {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+.cursor-disabled {
+    cursor: not-allowed;
+}
